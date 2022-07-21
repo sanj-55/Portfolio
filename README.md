@@ -1,7 +1,6 @@
 Personal Website built with the help of freeCodeCamp.org with minimal js.
 
-Currently hosted @ offline
-
+Currently hosted @ https://sanjay.vercel.app/
 Updated semi-frequently
 
 
