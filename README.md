@@ -1,4 +1,4 @@
-Personal Website built with the help of freeCodeCamp.org with minimal js.
+Personal Website built with the template made by one of the freeCodeCamp.org tutorials with minimal js.
 
 Currently hosted @ https://sanjay.vercel.app/
 Updated semi-frequently
